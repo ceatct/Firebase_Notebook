@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476386821943",
+    "project_id": "noteapp-11050",
+    "storage_bucket": "noteapp-11050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476386821943:android:6a880b43fb95fe1206fcb2",
+        "android_client_info": {
+          "package_name": "com.rabbithole.firebasenotebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs4-W-K4SZlXB5e60F5RhrU3mrgDEYCs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
